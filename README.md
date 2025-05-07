@@ -2,7 +2,7 @@
 
 Number guessing game where you speak your guess into the microphone using the speech recognition API
 
-You can check out the ready-made solution on [Netlify](https://breakout-game-561eca.netlify.app/) </br>
+You can check out the ready-made solution on [Netlify](https://speech-recognition-a31a39.netlify.app/) </br>
 
 ### Project Specifications
 
