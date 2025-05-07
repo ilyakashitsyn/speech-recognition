@@ -34,6 +34,12 @@ const checkNumber = msg => {
     return;
   }
 
+  // Check in range
+  if (num > 100 || num < 1) {
+    msgEl.innerHTML += '<div>Number must be between 1 and 100</div>';
+    return;
+  }
+
   // Check number
   if (num === randomNum) {
     document.body.innerHTML = `
